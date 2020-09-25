@@ -1,7 +1,7 @@
 # Site
 name: "Theodore Tsitsimis"
 title: "Theodore Tsitsimis"
-description: "Collection of personal Data Science projects"
+description: "Collection of personal projects on Data Science, ML and Robotics"
 logo: 'assets/images/tt-logo.png'
 favicon: 'assets/images/tt-logo.png'
 baseurl: 
