@@ -1,7 +1,7 @@
 # Site
 name: "Theodore Tsitsimis"
 title: "Theodore Tsitsimis"
-description: "Collection of personal projects on Data Science, ML and Robotics"
+description: "Collection of personal projects on Data Science, Machine Learning and Robotics"
 logo: 'assets/images/tt-logo.png'
 favicon: 'assets/images/tt-logo.png'
 baseurl: 
@@ -48,7 +48,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 9
 paginate_path: /page:num/
     
 # Other
