@@ -173,7 +173,7 @@ section.recent-posts {
     font-size: .8rem;
     display: flex;
     align-items: center;
-    margin-bottom: 15px;
+    /* margin-bottom: 15px; */
 }
 
 .author-thumb {
@@ -181,6 +181,11 @@ section.recent-posts {
     height: 40px;
     margin-right: 13px;
     border-radius: 100%;
+}
+
+.logo-icon {
+    width: 50px;
+    margin-right: 13px;
 }
 
 .post-top-meta {
