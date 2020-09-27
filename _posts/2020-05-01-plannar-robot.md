@@ -5,5 +5,6 @@ author:
 categories: [ machine robotics, python ]
 image: assets/images/planar-robot.gif
 external_url: https://github.com/tsitsimis/planar-robot#planar-robot
+logos: [numpy, matplotlib]
 ---
 2D robotic arm with arbitrary number of links and rotational joints. Implementation of trajectory planning and kinematic control.
