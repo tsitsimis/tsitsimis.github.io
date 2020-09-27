@@ -1,34 +1,35 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Me
 permalink: /about
-comments: true
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>If I had to give myself a title, the shortest would be Data Scientist.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p>I like (re)creating and prototyping algorithms, simulations and experiments to understand and communicate interesting ideas in Machine Learning and Robotics.</p>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>I graduated (top 5%) from the Electrical and Computer Engineering School of <a href="https://www.ece.ntua.gr/en" target="_blank">National Technical University of Athens</a>, Greece (5-year integrated BSc and MSc).</p>
 
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>Currently, I work on Analytics and Big Data as a Senior Consultant and Data Scientist at EY. From supervision to hands-on implementation, I'm involved in projects that help clients understand and optimize their business by extracting insights from their data.</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<p><img width="50%" src="https://avatars1.githubusercontent.com/u/6275663?s=460&u=71be2b2af7f3eef9becdb7aea6386c1fe4967476&v=4" style="border-radius: 50%;" /></p>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>
+<a target="_blank" href="https://github.com/tsitsimis" style="margin-right: 10px;"><i class="fab fa-github"></i></a>
+<a target="_blank" href="https://www.linkedin.com/in/tsitsimis/" style="margin-right: 10px;"><i class="fab fa-linkedin"></i>  </a>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://scholar.google.com/citations?user=ngn3s3MAAAAJ&hl=en&oi=sra" style="margin-right: 10px;"><i class="fas fa-graduation-cap"></i>  </a>
+
+<a href="mailto: th.tsitsimis@gmail.com" style="margin-right: 10px;"><i class="fas fa-envelope"></i>  </a>
+</p>
 
 </div>
 </div>
