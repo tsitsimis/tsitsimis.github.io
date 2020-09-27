@@ -7,13 +7,13 @@ permalink: /about
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>If I had to give myself a title, the shortest would be Data Scientist.</p>
-
 <p>I like (re)creating and prototyping algorithms, simulations and experiments to understand and communicate interesting ideas in Machine Learning and Robotics.</p>
 
 <p>I graduated (top 5%) from the Electrical and Computer Engineering School of <a href="https://www.ece.ntua.gr/en" target="_blank">National Technical University of Athens</a>, Greece (5-year integrated BSc and MSc).</p>
 
 <p>Currently, I work on Analytics and Big Data as a Senior Consultant and Data Scientist at EY. From supervision to hands-on implementation, I'm involved in projects that help clients understand and optimize their business by extracting insights from their data.</p>
+
+<p>In my free time I like painting and trying different sports (tennis, kickboxing, scuba diving).</p>
 
 </div>
 
