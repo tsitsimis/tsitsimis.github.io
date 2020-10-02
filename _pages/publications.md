@@ -13,7 +13,7 @@ permalink: /publications
 
 <hr>
 <a href="https://robotics.ntua.gr/wp-content/uploads/sites/2/MultiLearn2017.pdf" target="_blank"><h3> Online adaptation to human engagement perturbations in simulated human-robot interaction using hybrid reinforcement learning </h3></a>
-<p>T Tsitsimis, G Velentzas, M Khamassi, C Tzafestas</p>
+<p>Theodore Tsitsimis, George Velentzas, Mehdi Khamassi, Costas Tzafestas</p>
 <i>EUSIPCO - MultiLearn Workshop, 2017</i>
 
 </div>
