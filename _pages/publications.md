@@ -16,5 +16,10 @@ permalink: /publications
 <p>Theodore Tsitsimis, George Velentzas, Mehdi Khamassi, Costas Tzafestas</p>
 <i>EUSIPCO - MultiLearn Workshop, 2017</i>
 
+<hr>
+<a href="http://sites.isir.upmc.fr/www/files/2017ACTI3860.pdf" target="_blank"><h3> Active exploration and parameterized reinforcement learning applied to a simulated human-robot interaction task </h3></a>
+<p>Mehdi Khamassi, George Velentzas, Theodore Tsitsimis, Costas Tzafestas</p>
+<i>First IEEE International Conference on Robotic Computing (IRC), 2017</i>
+
 </div>
 </div>
