@@ -11,9 +11,9 @@ permalink: /about
 
 <p>I graduated (top 5%) from the Electrical and Computer Engineering School of <a href="https://www.ece.ntua.gr/en" target="_blank">National Technical University of Athens</a>, Greece (5-year integrated BSc and MSc).</p>
 
-<p>Currently, I work on Analytics and Big Data as a Senior Consultant and Data Scientist at EY. From supervision to hands-on implementation, I'm involved in projects that help clients understand and optimize their business by extracting insights from their data.</p>
+<p>Currently, I work on analytics projects as a senior consultant and data scientist at EY to help clients understand and optimize their business by extracting insights from their data.</p>
 
-<p>In my free time I like painting and trying different sports (tennis, kickboxing, scuba diving).</p>
+<p>In my free time I like painting and trying out different sports (tennis, kickboxing, scuba diving).</p>
 
 </div>
 
